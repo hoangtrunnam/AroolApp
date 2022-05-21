@@ -1,0 +1,18 @@
+export const FONT_SIZES = {
+    FONT_SIZE_TINY: 8,
+    FONT_SIZE_SMALL: 12,
+    FONT_SIZE_MEDIUM: 16,
+    FONT_SIZE_LARGE: 18,
+    FONT_SIZE_EXTRA_LARGE: 24,
+    FONT_SIZE_MASSIVE: 34,
+  
+    FONT_WEIGHT_LIGHT: "200",
+    FONT_WEIGHT_MEDIUM: "600",
+    FONT_WEIGHT_BOLD: "700",
+  
+    PRIMARY_FONT_FAMILY: "Poppins-Medium",
+    PRIMARY_FONT_FAMILY_BOLD: "Poppins-Bold",
+  
+    SECONDARY_FONT_FAMILY: "Product-Sans-Regular",
+    SECONDARY_FONT_FAMILY_ITALIC: "Product-Sans-Italic"
+  };
